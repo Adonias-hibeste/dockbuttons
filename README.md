@@ -17,7 +17,7 @@ To set up and run **Icon_Dock**, follow these steps:
 
 | Screenshot 1 | Screenshot 2 | Screenshot 3 |
 |--------------|--------------|--------------|
- ![Screenshot1](https://github.com/Adonias-hibeste/dockbuttons/blob/master/photo_2024-11-05_02-42-51%20(2).jpg) | ![Screenshot2](https://github.com/Adonias-hibeste/dockbuttons/blob/master/photo_2024-11-05_02-42-51%20(3).jpg) |  ![Screenshot2](https://github.com/Adonias-hibeste/Flash_Card_Quiz-app/blob/main/photo_2024-11-05_00-52-28.jpg)
+ ![Screenshot1](https://github.com/Adonias-hibeste/dockbuttons/blob/master/photo_2024-11-05_02-42-51%20(2).jpg) | ![Screenshot2](https://github.com/Adonias-hibeste/dockbuttons/blob/master/photo_2024-11-05_02-42-51%20(3).jpg) |  ![Screenshot2](https://github.com/Adonias-hibeste/dockbuttons/blob/master/photo_2024-11-05_02-42-51.jpg)
 ### Prerequisites
 
 Ensure you have Flutter installed on your machine. You can verify your installation by executing:
